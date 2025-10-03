@@ -1,2 +1,2 @@
 # test-repo
-For GANIT
+For GANIT Training
